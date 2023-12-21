@@ -137,7 +137,7 @@
 				<Title>ul_outside_fema_4326</Title>
 				<Abstract>GH:ul_outside_fema_4326 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/jactempgithub/Mappia_Example/releases/download/Map_Download/ul_outside_fema_4326.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/jactempgithub/Mappia_Example/releases/download/Map_Download/ul_outside_fema_4326.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-92.28474" miny="30.0365" maxx="-91.90577" maxy="30.38156"></LatLonBoundingBox>
